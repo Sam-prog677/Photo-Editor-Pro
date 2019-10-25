@@ -294,7 +294,7 @@ def removebg(picture):
     global stbg,statusbar
     statusbar['text'] = 'Removing Background...'
     statusbar.update()
-    rmbg = RemoveBg("V9TBQtaerMdfW43uXARhSdwe", "error.log")
+    rmbg = RemoveBg("V9TBQtaer***************(your_secret_number)", "error.log")
     rmbg.remove_background_from_img_file(picture)
     statusbar['text'] = 'Removed Background Successfully'
     statusbar.update()
