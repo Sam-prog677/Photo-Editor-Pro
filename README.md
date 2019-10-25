@@ -2,4 +2,4 @@
 *An app to edit photos, written in Python.*
 
 Screen shot:
-![Front Page](http://github.com/Sam-prog677/Photo-Editer-Pro/ "Front Page")
+![Front Page](https://github.com/Sam-prog677/Photo-Editor-Pro/tree/master/pictures/screen-shot/Start-Page "Front Page")
