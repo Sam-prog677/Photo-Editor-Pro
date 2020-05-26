@@ -582,6 +582,7 @@ root.bind_all("<Control-a>", lambda event: _about())
 helpmenu = Menu(mb2,tearoff=False)
 helpmenu.add_command(label='About',command=_about,font=("Arial",9),accelerator='Ctrl+A')
 mb2.config(menu=helpmenu)
+# Update 2020.5.26: hmm..I really wonder how I did this in 2019, but writing 2019-2020...
 copy = Label(tab1,text="Copy Right © 2019-2020 Sam Tech.co.,Inc.",font=("Arial",10))
 copy.place(x=1000,y=700)
 tab1.update()
